@@ -1,0 +1,1253 @@
+(['E:\\projects\\jarvis\\jarvis.py'],
+ ['E:\\projects\\jarvis', 'E:\\projects\\jarvis'],
+ ['codecs'],
+ [],
+ [],
+ [],
+ False,
+ False,
+ '3.6.0 (v3.6.0:41df79263a11, Dec 23 2016, 08:06:12) [MSC v.1900 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_certifi',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('jarvis', 'E:\\projects\\jarvis\\jarvis.py', 'PYSOURCE')],
+ [('ssl',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('wikipedia',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\wikipedia\\__init__.py',
+   'PYMODULE'),
+  ('wikipedia.exceptions',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\wikipedia\\exceptions.py',
+   'PYMODULE'),
+  ('wikipedia.wikipedia',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\wikipedia\\wikipedia.py',
+   'PYMODULE'),
+  ('wikipedia.util',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\wikipedia\\util.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\numbers.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\queue.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\hmac.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('speech_recognition',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\__init__.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('pyaudio',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyaudio.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('aifc',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\aifc.py',
+   'PYMODULE'),
+  ('chunk',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\chunk.py',
+   'PYMODULE'),
+  ('wave',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\wave.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE')],
+ [('VCRUNTIME140.dll',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python36.dll',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\python36.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_portaudio',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\_portaudio.cp36-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32wnet',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\win32\\win32wnet.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('pywintypes36.dll',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pywin32_system32\\pywintypes36.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'E:\\projects\\jarvis\\build\\jarvis\\base_library.zip',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\LICENSE.txt',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\LICENSE.txt',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\sendump',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\sendump',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\transition_matrices',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\transition_matrices',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\Include\\pyconfig.h',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('speech_recognition\\flac-win32.exe',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\flac-win32.exe',
+   'DATA'),
+  ('speech_recognition\\flac-mac',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\flac-mac',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\language-model.lm.bin',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\language-model.lm.bin',
+   'DATA'),
+  ('speech_recognition\\flac-linux-x86_64',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\flac-linux-x86_64',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\noisedict',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\noisedict',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\README',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\README',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\means',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\means',
+   'DATA'),
+  ('speech_recognition\\flac-linux-x86',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\flac-linux-x86',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\pronounciation-dictionary.dict',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\pronounciation-dictionary.dict',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\mdef',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\mdef',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\feat.params',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\feat.params',
+   'DATA'),
+  ('speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\variances',
+   'c:\\users\\gunjan '
+   'sahu\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\speech_recognition\\pocketsphinx-data\\en-US\\acoustic-model\\variances',
+   'DATA')],
+ [])
